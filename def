@@ -203,7 +203,7 @@ http://190.61.101.9:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
 http://45.160.12.253:8000/play/027
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
-
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3774
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/8467.m3u8
 
@@ -214,13 +214,16 @@ http://201.159.115.175:2000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
 http://190.97.172.4:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE
-
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3237
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyk8ehcfdmqnt4lu052JAK54zYSw6FBBqEkgxc8NNWdmb.png" group-title="TV | Internacional",GOLDEN + HQ
 http://streamgo.vip:8008/cristian2022/cristian2022/147314
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
 http://streamgo.vip:8008/cristian2022/cristian2022/147320
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
 http://160.20.164.171:8001/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT " tvg-logo="" group-title="TV | Internacional",PARAMOUNT
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/2952
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| WARNER BROTHER HQ" tvg-logo="https://www.eastwebside.com/wp-content/uploads/2013/11/wb_2012_logo-somos-377x390.jpg" group-title="TV | Internacional",WARNER BROTHER HQ
 http://190.61.101.9:8000/play/a010/index.m3u8
@@ -623,8 +626,10 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1383
 http://streamgo.vip:8008/cristian2022/cristian2022/167276
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://line.powerdino.com:80/4375a1dd43/649f75a876/265279
-#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV SPORT ESPAÑA" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT ESPAÑA
-
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 1" tvg-logo="" group-title="TV | Deportes",DSPORTS 1
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/53462
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 2" tvg-logo="" group-title="TV | Deportes",DSPORTS 2
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/53489
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
 http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/146743
@@ -646,6 +651,8 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1195
 http://line.powerdino.com/4375a1dd43/649f75a876/628275
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
 
+#EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| UNIVERSO" tvg-logo="" group-title="TV | Deportes",UNIVERSO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| SPORTV" tvg-logo="" group-title="TV | Deportes",SPORTV
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/3261
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| SPORTV 2" tvg-logo="" group-title="TV | Deportes",SPORTV 2
@@ -714,7 +721,7 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7828.m3u8
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7829.m3u8
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
-
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1694
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
