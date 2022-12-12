@@ -630,6 +630,8 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1383
 http://streamgo.vip:8008/cristian2022/cristian2022/167276
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://line.powerdino.com:80/4375a1dd43/649f75a876/265279
+#EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ESPAÑA" tvg-logo="" group-title="TV | Deportes",DIRECTV ESPAÑA
+http://160.20.164.171:8001/play/a07q/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 1" tvg-logo="" group-title="TV | Deportes",DSPORTS 1
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/53462
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 2" tvg-logo="" group-title="TV | Deportes",DSPORTS 2
