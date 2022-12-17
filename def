@@ -58,7 +58,7 @@ https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TELERAMA "  tvg-logo="" group-title="TV | Ecuador",TELERAMA
-
+https://envivo.telerama.ec/stream.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| HECHOS TV "  tvg-logo="" group-title="TV | Ecuador",HECHOS TV
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
@@ -66,7 +66,7 @@ https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ECOTEL TV "  tvg-logo="" group-title="TV | Ecuador",ECOTEL TV
-
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LORETO TV "  tvg-logo="" group-title="TV | Ecuador",LORETO TV 
 https://stmv1.voxhdnet.com/diego7128/diego7128/chunklist_w2128296790.m3u8
@@ -92,7 +92,7 @@ https://rctvhd.net:8081/elsol105fm/index.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| INTI TV "  tvg-logo="" group-title="TV | Ecuador",INTI TV
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| MULTICANAL "  tvg-logo="" group-title="TV | Ecuador",MULTICANAL
-
+https://multicanal.streamseguro.com/hls/streaming.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| AUSTRAL TV "  tvg-logo="" group-title="TV | Ecuador",AUSTRAL TV
 
 
@@ -207,7 +207,7 @@ http://8.242.187.233:5800/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3774
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
-
+http://speedwk.site:80/richie1234/richie1234/95176.ts
 
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN " tvg-logo="" group-title="TV | Internacional",GOLDEN 
 http://45.228.234.185:8000/play/a0jv/index.m3u8
@@ -910,7 +910,7 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7870.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Los caballeros del zodiaco
 
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",COMO DICE EL DICHO
-
+https://linear-341.frequency.stream/dist/localnow/341/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los simpsons" tvg-logo="" group-title="24/7 | 24/7",Los simpsons
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7882.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL
@@ -920,7 +920,7 @@ http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7876.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER" tvg-logo="" group-title="24/7 | 24/7",HARRY POTTER
 
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7",FAMILIA PELUCHE
-
+https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 1" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 1
 
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL 2" tvg-logo="" group-title="24/7 | 24/7",DISNEY MARVEL 2
