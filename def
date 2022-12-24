@@ -1021,7 +1021,7 @@ http://51.81.208.167/movies/Legalmente_Rubia_2_(2003).mp4
 http://51.81.208.167/movies/Mad_Max_Furia_en_el_camino_(2015).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="" group-title="VOD | Peliculas",Rampage
 http://51.81.208.167/movies/Rampage_(2018).mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terminator, salvacion" tvg-logo="" group-title="VOD | Peliculas",Terminator salvacion
+#EXTINF:-1 tvg-id="" tvg-name="Terminator, salvacion" tvg-logo="" group-title="VOD | Peliculas",Terminator, salvacion
 http://51.81.208.167/movies/Terminator_salvation_(2009).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
 http://51.81.208.167/movies/The.Croods.mkv
@@ -1033,3 +1033,11 @@ http://51.81.208.167/peli2021/Encanto.2021.lati.mp4
 http://51.81.208.167/peli2021/No.mires.arriba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Viejos" tvg-logo="" group-title="VOD | Peliculas",Viejos
 http://51.81.208.167/peli2021/Old.2021.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Click" tvg-logo="" group-title="VOD | Peliculas",Click
+http://streamgo.vip:8008/movie/cristian2022/cristian2022/150654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 2" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 2
+http://streamgo.vip:8008/movie/cristian2022/cristian2022/150666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catastrofe helada" tvg-logo="" group-title="VOD | Peliculas",Catastrofe helada
+http://streamgo.vip:8008/movie/cristian2022/cristian2022/115526.mkv
+
+
