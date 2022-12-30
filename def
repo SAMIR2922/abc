@@ -66,7 +66,7 @@ https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ECOTEL TV "  tvg-logo="" group-title="TV | Ecuador",ECOTEL TV
-
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LORETO TV "  tvg-logo="" group-title="TV | Ecuador",LORETO TV 
 https://stmv1.voxhdnet.com/diego7128/diego7128/chunklist_w2128296790.m3u8
@@ -1041,5 +1041,10 @@ http://streamgo.vip:8008/movie/cristian2022/cristian2022/150654.mp4
 http://streamgo.vip:8008/movie/cristian2022/cristian2022/150666.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Catastrofe helada" tvg-logo="" group-title="VOD | Peliculas",Catastrofe helada
 http://streamgo.vip:8008/movie/cristian2022/cristian2022/115526.mkv
-
+#EXTINF:-1 tvg-id="" tvg-name="Rescatando al soldado Ryan" tvg-logo="" group-title="VOD | Peliculas",Rescatando al soldado Ryan
+http://streamgo.vip:8008/movie/cristian2022/cristian2022/162770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 10 mandamientos" tvg-logo="" group-title="VOD | Peliculas",Los 10 mandamientos
+http://streamgo.vip:8008/movie/cristian2022/cristian2022/129728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jesús" tvg-logo="" group-title="VOD | Peliculas",Jesús
+http://streamgo.vip:8008/movie/cristian2022/cristian2022/129717.mp4
 
