@@ -19,7 +19,7 @@ http://181.175.41.170:8000/play/a02f
 https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
-http://200.24.132.99:8000/play/a008
+http://177.234.230.226:8010/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC HD
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/515
 
@@ -34,9 +34,9 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3432
 http://177.234.254.38:8000/play/a06r/index.m3u8
 
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
-http://200.24.132.99:8000/play/a006
+http://177.234.230.226:8010/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
-http://200.24.132.99:8000/play/a00n
+
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
 http://45.179.140.242:8000/play/a0j4
 
@@ -66,7 +66,7 @@ https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| ECOTEL TV "  tvg-logo="" group-title="TV | Ecuador",ECOTEL TV
-https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| LORETO TV "  tvg-logo="" group-title="TV | Ecuador",LORETO TV 
 https://stmv1.voxhdnet.com/diego7128/diego7128/chunklist_w2128296790.m3u8
@@ -165,7 +165,7 @@ http://45.232.210.1:8062/play/tnthd/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
 http://160.20.164.171:8001/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT ESPAÑA"  tvg-logo="" group-title="TV | Internacional",TNT ESPAÑA
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3138
+
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="http://www.vod-logo.net/photos/7ff239a2180a34471241aa67820c1020.jpg" group-title="TV | Internacional",TNT SERIES
 http://181.175.41.170:8000/play/a0gr
 
@@ -183,7 +183,7 @@ http://181.176.148.142:8000/play/a02q
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
 http://160.20.164.171:8001/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| TOUR CHANNEL" tvg-logo="" group-title="TV | Internacional",TOUR CHANNEL
-http://45.181.121.57:2909/play/179
+http://45.160.12.253:8000/play/179
 
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY CHANNEL " tvg-logo="https://img1.freepng.es/20180607/jaz/kisspng-discovery-channel-television-channel-television-sh-discovery-channel-5b191fa1663cf1.1765839215283731534188.jpg" group-title="TV | Internacional",DISCOVERY CHANNEL 
 http://170.83.242.30:5350/play/a00o
@@ -222,9 +222,9 @@ http://201.182.251.146:37581/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyk8ehcfdmqnt4lu052JAK54zYSw6FBBqEkgxc8NNWdmb.png" group-title="TV | Internacional",GOLDEN + HQ
 http://streamgo.vip:8008/cristian2022/cristian2022/147314
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
-http://160.20.164.171:8001/play/a07e/index.m3u8
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
-http://160.20.164.171:8001/play/a07f/index.m3u8
+
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT " tvg-logo="" group-title="TV | Internacional",PARAMOUNT
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/2952
@@ -330,7 +330,7 @@ http://200.229.147.76:4000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| COCINA TV" tvg-logo="" group-title="TV | Internacional",COCINA TV
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3120
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MUNDO Y SABOR" tvg-logo="" group-title="TV | Internacional",MUNDO Y SABOR
-http://45.181.121.57:2909/play/178
+http://45.160.12.253:8000/play/178
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| EL CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="TV | Internacional",EL CANAL DE LAS ESTRELLAS
 http://45.160.12.253:8000/play/151
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MAS CHIC" tvg-logo="" group-title="TV | Internacional",MA CHIC
@@ -401,9 +401,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CLOVER CHANNEL" tvg-logo="" group-title="TV | Internacional",CLOVER CHANNEL
 http://160.20.165.246:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MX PRIME" tvg-logo="" group-title="TV | Internacional",MX PRIME
-http://45.181.121.57:2909/play/122
+http://45.160.12.253:8000/play/122
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MX FAMILY" tvg-logo="" group-title="TV | Internacional",MX FAMILY
-http://45.181.121.57:2909/play/120
+http://45.160.12.253:8000/play/120
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CLUB SERIES" tvg-logo="" group-title="TV | Internacional",CLUB SERIES
 http://181.176.148.142:8000/play/a02y
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| BITME" tvg-logo="" group-title="TV | Internacional",BITME
@@ -492,7 +492,7 @@ http://181.176.148.142:8000/play/a032
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| CARTOONITO" tvg-logo="" group-title="TV | Infantiles",CARTOONITO
 http://45.190.185.210:8000/play/a09g
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DOS KIDS" tvg-logo="" group-title="TV | Infantiles",DOS KIDS
-http://45.181.121.57:2909/play/002
+http://45.160.12.253:8000/play/002
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PLANETA JUNIOR TV" tvg-logo="" group-title="TV | Infantiles",PLANETA JUNIOR TV
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DIOS TV KIDS" tvg-logo="" group-title="TV | Internacional",DIOS TV KIDS
@@ -513,7 +513,7 @@ http://190.60.39.62:8000/play/a01v
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN ARG HQ" tvg-logo="" group-title="TV | Deportes",ESPN ARG
 http://160.20.164.171:8001/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN COL" tvg-logo="" group-title="TV | Deportes",ESPN COL
-http://200.24.132.99:8000/play/a02m
+http://160.20.164.171:8001/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PERU" tvg-logo="" group-title="TV | Deportes",ESPN PERU
 http://181.176.148.142:8000/play/a02d
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN MEXICO" tvg-logo="" group-title="TV | Deportes",ESPN MEXICO
@@ -577,7 +577,7 @@ http://190.131.228.59:8000/play/a059/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
-http://45.181.121.57:2909/play/235
+http://45.160.12.253:8000/play/235
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT ESTADIO" tvg-logo="" group-title="TV | Deportes",TNT SPORT ESTADIO
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT MEX
@@ -609,7 +609,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/7617
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
 http://160.20.164.171:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
-
+http://186.101.70.92:25501/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP5" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP5
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",CNT SPORT
@@ -710,9 +710,9 @@ http://160.20.164.171:8001/play/a051/index.m3u8
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/14526
 
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 1" tvg-logo="" group-title="TV | Deportes",EUROSPORT 1
-
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/41816
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
-
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/51352
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
@@ -843,21 +843,21 @@ http://51.81.208.167/series2022/She.Hulk.abogada.Hulka/She.Hulk.abogada.Hulka.1x
 
 
 #EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES | DRAMA",Merlina E01
-http://streamgo.vip:8008/series/cristian2022/cristian2022/168338.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E2" tvg-logo="" group-title="SERIES | DRAMA",Merlina E02
-http://streamgo.vip:8008/series/cristian2022/cristian2022/168339.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E3" tvg-logo="" group-title="SERIES | DRAMA",Merlina E03
-http://streamgo.vip:8008/series/cristian2022/cristian2022/168340.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="" group-title="SERIES | DRAMA",Merlina E04
-http://streamgo.vip:8008/series/cristian2022/cristian2022/168341.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E5" tvg-logo="" group-title="SERIES | DRAMA",Merlina E05
-http://streamgo.vip:8008/series/cristian2022/cristian2022/168342.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E6" tvg-logo="" group-title="SERIES | DRAMA",Merlina E06
-http://streamgo.vip:8008/series/cristian2022/cristian2022/168343.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="SERIES | DRAMA",Merlina E07
-http://streamgo.vip:8008/series/cristian2022/cristian2022/168344.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="E8" tvg-logo="" group-title="SERIES | DRAMA",Merlina E08
-http://streamgo.vip:8008/series/cristian2022/cristian2022/168345.mp4
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Rakuten Tv Familia
@@ -866,8 +866,8 @@ https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="" tvg-name="El gallo claudio" tvg-logo="" group-title="24/7 | 24/7",El gallo claudio
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/29407
-#EXTINF:-1 tvg-id="" tvg-name="Archivos del FBI" tvg-logo="" group-title="24/7 | 24/7",Archivos del FBI
-
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Futurama
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/29407
 #EXTINF:-1 tvg-id="" tvg-name="Risas y mas risas" tvg-logo="" group-title="24/7 | 24/7",Risas y mas risas
 
 #EXTINF:-1 tvg-id="" tvg-name="Los pinguinos de madagascar" tvg-logo="" group-title="24/7 | 24/7",Los pinguinos de madagascar
@@ -913,7 +913,7 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/44728
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://https://es.web.img3.acsta.net/pictures/19/12/16/12/16/5667446.jpg" group-title="VOD | Peliculas",Mulan
+#EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="" group-title="VOD | Peliculas",Mulan
 http://51.81.208.167/cine2/Mulan.2020.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:-1 tvg-id="" tvg-name="La biblia en el inicio" tvg-logo="" group-title="VOD | Peliculas",La biblia en el inicio
 http://51.81.208.167/gmovie/cristiana/The.Bible.In.the.Beginning.1966.mkv
@@ -1004,7 +1004,7 @@ http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="" group-title="VOD | Peliculas",No manches Frida 2
 http://archive.org/download/rasecaral42_gmail_45/P/NMF2.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sin escape" tvg-logo="" group-title="VOD | Peliculas",Sin escape
-http://51.81.208.167/movies/No_Escape_(2015).avi
+
 #EXTINF:-1 tvg-id="" tvg-name="Un rescate de huevitos" tvg-logo="" group-title="VOD | Peliculas",Un rescate de huevitos
 http://51.81.208.167/EXTRENO/Un.rescate.de.huevitos.2021.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transylvania 2
@@ -1012,7 +1012,7 @@ http://51.81.208.167/cine/Hotel.transylvania.3.summer.vacation.2018.1080p-dual-l
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 2
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER HERO" tvg-logo="" group-title="VOD | Peliculas",Dragon ball super hero
-http://streamgo.vip:8008/movie/cristian2022/cristian2022/150005.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="3 metros sobre el cielo" tvg-logo="" group-title="VOD | Peliculas",3 metros sobre el cielo
 http://51.81.208.167/movies/3_metros_sobre_el_cielo_(2010).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 1" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 1
@@ -1036,15 +1036,15 @@ http://51.81.208.167/peli2021/No.mires.arriba.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Viejos" tvg-logo="" group-title="VOD | Peliculas",Viejos
 http://51.81.208.167/peli2021/Old.2021.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Click" tvg-logo="" group-title="VOD | Peliculas",Click
-http://streamgo.vip:8008/movie/cristian2022/cristian2022/150654.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 2" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 2
-http://streamgo.vip:8008/movie/cristian2022/cristian2022/150666.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Catastrofe helada" tvg-logo="" group-title="VOD | Peliculas",Catastrofe helada
-http://streamgo.vip:8008/movie/cristian2022/cristian2022/115526.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Rescatando al soldado Ryan" tvg-logo="" group-title="VOD | Peliculas",Rescatando al soldado Ryan
-http://streamgo.vip:8008/movie/cristian2022/cristian2022/162770.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Los 10 mandamientos" tvg-logo="" group-title="VOD | Peliculas",Los 10 mandamientos
-http://streamgo.vip:8008/movie/cristian2022/cristian2022/129728.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Jesús" tvg-logo="" group-title="VOD | Peliculas",Jesús
-http://streamgo.vip:8008/movie/cristian2022/cristian2022/129717.mp4
+
 
