@@ -165,7 +165,7 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4010
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
 http://160.20.164.171:8001/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT ESPAÑA"  tvg-logo="" group-title="TV | Internacional",TNT ESPAÑA
-
+http://190.83.119.67:8000/play/a0pq/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT SERIES "  tvg-logo="http://www.vod-logo.net/photos/7ff239a2180a34471241aa67820c1020.jpg" group-title="TV | Internacional",TNT SERIES
 http://181.175.41.170:8000/play/a0gr
 
@@ -222,9 +222,9 @@ http://201.182.251.146:37581/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyk8ehcfdmqnt4lu052JAK54zYSw6FBBqEkgxc8NNWdmb.png" group-title="TV | Internacional",GOLDEN + HQ
 http://streamgo.vip:8008/cristian2022/cristian2022/147314
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
-
+http://190.83.119.67:8000/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
-
+http://190.83.119.67:8000/play/a0od/index.m3u8
 
 #EXTINF:-1 tvg-id="warner.ec" tvg-name="INT| PARAMOUNT " tvg-logo="" group-title="TV | Internacional",PARAMOUNT
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/2952
