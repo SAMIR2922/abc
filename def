@@ -488,7 +488,7 @@ http://190.61.102.67:444/play/a03x
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| ZOOMOO TV" tvg-logo="" group-title="TV | Infantiles",ZOOMOO TV
 http://181.176.148.142:8000/play/a032
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| MAGIC KIDS" tvg-logo="" group-title="TV | Infantiles",MAGIC KIDS
-
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| CARTOONITO" tvg-logo="" group-title="TV | Infantiles",CARTOONITO
 http://45.190.185.210:8000/play/a09g
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DOS KIDS" tvg-logo="" group-title="TV | Infantiles",DOS KIDS
@@ -868,8 +868,8 @@ https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/29407
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Futurama
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/29407
-#EXTINF:-1 tvg-id="" tvg-name="Risas y mas risas" tvg-logo="" group-title="24/7 | 24/7",Risas y mas risas
-
+#EXTINF:-1 tvg-id="" tvg-name="Icarly" tvg-logo="" group-title="24/7 | 24/7",Icarly
+https://tinyurl.com/y976r32k
 #EXTINF:-1 tvg-id="" tvg-name="Los pinguinos de madagascar" tvg-logo="" group-title="24/7 | 24/7",Los pinguinos de madagascar
 
 #EXTINF:-1 tvg-id="" tvg-name="Yo soy betty la fea" tvg-logo="" group-title="24/7 | 24/7",Yo soy betty la fea
@@ -998,13 +998,13 @@ http://51.81.208.167/pelis2022/Hocus.Pocus.2.2022.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Black Adam" tvg-logo="" group-title="VOD | Peliculas",Black Adam
 https://archive.org/download/01_20221022_20221022_1429/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sin escalas" tvg-logo="" group-title="VOD | Peliculas",Sin escalas
-http://archive.org/download/3-ntr-3-n-4-nd-04-p-4-p-41-nf-4-n-71-l/N0N%24T0P4CC10N.mp4
+http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/111581.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida" tvg-logo="" group-title="VOD | Peliculas",No manches Frida
 http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="" group-title="VOD | Peliculas",No manches Frida 2
 http://archive.org/download/rasecaral42_gmail_45/P/NMF2.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sin escape" tvg-logo="" group-title="VOD | Peliculas",Sin escape
-
+http://45.179.164.59:8181/Peliculas/No.escape.2015.1080p-dual-lat.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Un rescate de huevitos" tvg-logo="" group-title="VOD | Peliculas",Un rescate de huevitos
 http://51.81.208.167/EXTRENO/Un.rescate.de.huevitos.2021.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transylvania 2
@@ -1012,7 +1012,7 @@ http://51.81.208.167/cine/Hotel.transylvania.3.summer.vacation.2018.1080p-dual-l
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 2
 
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER HERO" tvg-logo="" group-title="VOD | Peliculas",Dragon ball super hero
-
+http://54.39.52.63/%5bwww.mega1080.com%5dDRAG0NBALLSUPERH3R0HD1080P.mkv
 #EXTINF:-1 tvg-id="" tvg-name="3 metros sobre el cielo" tvg-logo="" group-title="VOD | Peliculas",3 metros sobre el cielo
 http://51.81.208.167/movies/3_metros_sobre_el_cielo_(2010).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 1" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 1
@@ -1046,5 +1046,20 @@ http://51.81.208.167/peli2021/Old.2021.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los 10 mandamientos" tvg-logo="" group-title="VOD | Peliculas",Los 10 mandamientos
 
 #EXTINF:-1 tvg-id="" tvg-name="Jesús" tvg-logo="" group-title="VOD | Peliculas",Jesús
+
+#EXTINF:-1 tvg-id="" tvg-name="Pantera negra" tvg-logo="" group-title="VOD | Peliculas",Pantera negra
+http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/blackpanter/Black%20Panther%20Wakanda%20Forever%202022%201080Pt.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar, el sentido del agua" tvg-logo="" group-title="VOD | Peliculas",Avatar, el sentido del agua
+http://54.39.52.63/PELICULAS%20POR%20MES/DICIEMBRE/17dic/Ver%20Avatar%20El%20sentido%20del%20agua%20(2022)%20Online%20Cuevana%203%20Pelic.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jose y los sueños del faraon" tvg-logo="" group-title="VOD | Peliculas",Jose y los sueños del faraon
+http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/111673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jacob" tvg-logo="" group-title="VOD | Peliculas",Jacob
+http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/111670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jeremias" tvg-logo="" group-title="VOD | Peliculas",Jeremias
+http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/111671.mp4
+
+
+
+
 
 
