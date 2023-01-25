@@ -1078,9 +1078,10 @@ http://51.81.208.167/peli2021/Old.2021.lati.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Jeremias" tvg-logo="" group-title="VOD | Peliculas",Jeremias
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 1" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 1
+http://play.flamaplus.tv:80/play/JSbaYkCI9UFPjuJSKJ34r615e3517B-IqOWePo9JDlygROly_ot8GNJQbSvJBxO5
+#EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 2" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 2
+http://play.flamaplus.tv:80/play/JSbaYkCI9UFPjuJSKJ34r4Bs95rChtTL5NWwNImt3R5qC6P5V8KiHHqS9OVuErfr
 
 
 
