@@ -290,7 +290,7 @@ http://200.41.79.165:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV SIM" tvg-logo="" group-title="TV | Internacional",MTV SIM
 http://45.175.164.232:5022/play/a0nc/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HITS" tvg-logo="" group-title="TV | Internacional",MTV HITS
-http://play.flamaplus.tv:80/play/GYFyA2G-lepqxpTSISDwAFhqRZ5cJ7yyVaIsnEzAPsM/ts
+http://190.83.119.67:8000/play/a0pn/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CONCERT TV" tvg-logo="" group-title="TV | Internacional",CONCERT TV
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/23236
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| KUMBIA TV" tvg-logo="" group-title="TV | Internacional",KUMBIA TV
@@ -304,7 +304,7 @@ http://181.176.148.142:8000/play/a01u
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VALLENATO TV" tvg-logo="" group-title="TV | Internacional",VALLENATO TV
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Internacional",NICK MUSIC
-http://190.61.102.67:31589/play/a00r/index.m3u8
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| SALSA TV" tvg-logo="" group-title="TV | Internacional",SALSA TV
 http://177.234.230.226:8010/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| REGGAETON TV" tvg-logo="" group-title="TV | Internacional",REGGAETON TV
@@ -401,7 +401,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| CITY TV" tvg-logo="" group-title="TV | Internacional",CITY TV
 http://177.234.230.226:8010/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| MULTICINEMA" tvg-logo="" group-title="TV | Internacional",MULTICINEMA
-http://190.61.102.67:31589/play/a01o/index.m3u8
+http://177.234.230.226:8010/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DRAMA TV" tvg-logo="" group-title="TV | Internacional",DRAMA TV
 http://186.101.207.117:9955/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| COMEDY CENTRAL" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" group-title="TV | Internacional",COMEDY CENTRAL
@@ -464,8 +464,6 @@ http://200.41.79.165:8000/play/a09b/index.m3u8
 http://177.234.230.226:8010/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK NORTE" tvg-logo="" group-title="TV | Infantiles",NICK NORTE
 http://181.176.148.142:8000/play/a02t
-#EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Infantiles",NICK MUSIC
-http://play.flamaplus.tv:80/play/GYFyA2G-lepqxpTSISDwANHOrAbAQeLVGZ_kM3r5Wy4/ts
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4140
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
@@ -494,7 +492,7 @@ http://200.41.79.165:8000/play/a049/index.m3u8
 
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| PLANETA CARTOON" tvg-logo="" group-title="TV | Infantiles",PLANETA CARTOON
-http://play.flamaplus.tv:80/play/GYFyA2G-lepqxpTSISDwAOLtSNqau4vzSGzhSA1cCIM/ts
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
 http://play.flamaplus.tv:80/play/GYFyA2G-lepqxpTSISDwAN8BROqUHVvBB_2m0akJxGY/ts
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
@@ -506,7 +504,7 @@ http://181.176.148.142:8000/play/a032
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| MAGIC KIDS" tvg-logo="" group-title="TV | Infantiles",MAGIC KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| CARTOONITO" tvg-logo="" group-title="TV | Infantiles",CARTOONITO
-http://200.6.227.230:7000/play/a01o/index.m3u8
+http://45.162.132.145:8850/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DOS KIDS" tvg-logo="" group-title="TV | Infantiles",DOS KIDS
 http://45.160.12.253:8000/play/002
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PLANETA JUNIOR TV" tvg-logo="" group-title="TV | Infantiles",PLANETA JUNIOR TV
@@ -517,6 +515,10 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 http://play.flamaplus.tv:80/play/GYFyA2G-lepqxpTSISDwAO3K85mizIledJ7_ma9x0fQ/ts
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FMH KIDS" tvg-logo="" group-title="TV | Infantiles",FMH KIDS
 http://200.60.7.43:8000/play/7/index.m3u8
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN BOX" tvg-logo="" group-title="TV | Infantiles",FUN BOX
+http://177.234.230.226:8010/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN POP" tvg-logo="" group-title="TV | Infantiles",FUN POP
+http://177.234.230.226:8010/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
 http://77.207.0.25:4000/play/a03m
@@ -649,7 +651,7 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/53462
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/53489
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
-http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/146743
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 1
 
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
@@ -661,16 +663,16 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/53489
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/23239
+http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/65750
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
-http://play.flamaplus.tv:80/play/GYFyA2G-lepqxpTSISDwAOXOOAh9RjR84_fQFAOKLS8/ts
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
 
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3421
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",FIGHT TV
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
@@ -710,7 +712,7 @@ http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/35477
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA " tvg-logo="" group-title="TV | Deportes",LATINA 
 http://186.101.207.117:9955/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
-http://200.6.227.230:7000/play/a00s/index.m3u8
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 HD
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 BOL " tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 BOL
@@ -1027,15 +1029,15 @@ http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="" group-title="VOD | Peliculas",No manches Frida 2
 http://archive.org/download/rasecaral42_gmail_45/P/NMF2.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sin escape" tvg-logo="" group-title="VOD | Peliculas",Sin escape
-http://45.179.164.59:8181/Peliculas/No.escape.2015.1080p-dual-lat.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Un rescate de huevitos" tvg-logo="" group-title="VOD | Peliculas",Un rescate de huevitos
 http://51.81.208.167/EXTRENO/Un.rescate.de.huevitos.2021.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transylvania 2
 http://51.81.208.167/cine/Hotel.transylvania.3.summer.vacation.2018.1080p-dual-lat-cinecalidad.to.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 2" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 2
-http://45.179.164.59:8181/Peliculas/Taken.2.2012.latino-e-ingles-subt.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 3" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 3
-http://45.179.164.59:8181/Peliculas/Taken.3.2014.hd-dual-lat.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER HERO" tvg-logo="" group-title="VOD | Peliculas",Dragon ball super hero
 
 #EXTINF:-1 tvg-id="" tvg-name="3 metros sobre el cielo" tvg-logo="" group-title="VOD | Peliculas",3 metros sobre el cielo
@@ -1053,9 +1055,9 @@ http://51.81.208.167/movies/Terminator_salvation_(2009).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 1" tvg-logo="" group-title="VOD | Peliculas",Los Croods 1
 http://51.81.208.167/movies/The.Croods.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
-http://45.179.164.59:8181/Peliculas%20Infantiles/CROODS.2.1080p.LAT.Www.Hackstore.Net.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
-http://45.179.164.59:8181/Peliculas%20Infantiles/Turbo.2013.bluray-latino-e-ingles-subt.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",En busca de la felicidad
 http://51.81.208.167/movies/en_busca_de_la_felicidad_(2006).mkv
 #EXTINF:-1 tvg-id="" tvg-name="Encanto" tvg-logo="" group-title="VOD | Peliculas",Encanto
@@ -1069,7 +1071,7 @@ http://51.81.208.167/peli2021/Old.2021.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Quiero acabar con mi jefe 2" tvg-logo="" group-title="VOD | Peliculas",Quiero acabar con mi jefe 2
 
 #EXTINF:-1 tvg-id="" tvg-name="Catastrofe helada" tvg-logo="" group-title="VOD | Peliculas",Catastrofe helada
-
+http://144.217.180.205/Peliculas/Accion/Ver%20El%20Cataclismo%20(2022)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4.filepart
 #EXTINF:-1 tvg-id="" tvg-name="Rescatando al soldado Ryan" tvg-logo="" group-title="VOD | Peliculas",Rescatando al soldado Ryan
 
 #EXTINF:-1 tvg-id="" tvg-name="Los 10 mandamientos" tvg-logo="" group-title="VOD | Peliculas",Los 10 mandamientos
@@ -1077,9 +1079,9 @@ http://51.81.208.167/peli2021/Old.2021.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jesús" tvg-logo="" group-title="VOD | Peliculas",Jesús
 
 #EXTINF:-1 tvg-id="" tvg-name="Pantera negra" tvg-logo="" group-title="VOD | Peliculas",Pantera negra
-
+http://144.217.180.205/Peliculas/Accion/Ver%20Black%20Panther%20Wakanda%20Forever%20(2022)%20Online%20Latino%20HD%20-%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Avatar, el sentido del agua" tvg-logo="" group-title="VOD | Peliculas",Avatar, el sentido del agua
-
+http://144.217.180.205/Peliculas/Accion/Ver%20Avatar%20El%20sentido%20del%20agua%20(2022)%20Online%20Cuevana%203%20Pelic(1).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jose y los sueños del faraon" tvg-logo="" group-title="VOD | Peliculas",Jose y los sueños del faraon
 
 #EXTINF:-1 tvg-id="" tvg-name="Jacob" tvg-logo="" group-title="VOD | Peliculas",Jacob
@@ -1087,9 +1089,21 @@ http://51.81.208.167/peli2021/Old.2021.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jeremias" tvg-logo="" group-title="VOD | Peliculas",Jeremias
 
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 1" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 1
-http://play.flamaplus.tv:80/play/JSbaYkCI9UFPjuJSKJ34r615e3517B-IqOWePo9JDlygROly_ot8GNJQbSvJBxO5
+
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 2" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 2
-http://play.flamaplus.tv:80/play/JSbaYkCI9UFPjuJSKJ34r4Bs95rChtTL5NWwNImt3R5qC6P5V8KiHHqS9OVuErfr
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Solo amigos" tvg-logo="" group-title="VOD | Peliculas",Solo amigos
+http://51.81.208.167/movie/Just.Friends.2005.1080P.Bluray.Dual.Latino.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lugar equivocado" tvg-logo="" group-title="VOD | Peliculas",Lugar equivocado
+http://51.81.208.167/pelis2022/Wrong.Place.2022.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El ejecutador" tvg-logo="" group-title="VOD | Peliculas",El ejecutador
+http://51.81.208.167/pelis2022/The.Enforcer.2022.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fiesta en la casa" tvg-logo="" group-title="VOD | Peliculas",Fiesta en la casa
+http://51.81.208.167/pelis2023/House.Party.2023.lati.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La generacion del mal" tvg-logo="" group-title="VOD | Peliculas",La generacion del mal
+http://144.217.180.205/Peliculas/Accion/Ver%20La%20generaci%c3%b3n%20del%20mal%20(2022)%20Online%20Cuevana%203%20Peliculas%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Junge" tvg-logo="" group-title="VOD | Peliculas",Junge
+http://144.217.180.205/Peliculas/Aventura/16134.JUNGE.2023.1080p.WEBRip.Dual.Latino.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narvik" tvg-logo="" group-title="VOD | Peliculas",Narvik
+http://144.217.180.205/Peliculas/Drama/18505.Narvik.2022.1080p.WEBRip.mkv
 
