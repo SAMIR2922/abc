@@ -895,7 +895,7 @@ http://vods.tuxchannel.tv/series/wednesday/s_01_e_08.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Rakuten Tv Familia
 https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
+#EXTINF:-1 tvg-id="" tvg-name="El chavo del 8 animado" tvg-logo="" group-title="24/7 | 24/7",El chavo del 8 animado
 
 #EXTINF:-1 tvg-id="" tvg-name="El gallo claudio" tvg-logo="" group-title="24/7 | 24/7",El gallo claudio
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/29407
@@ -1047,7 +1047,7 @@ http://archive.org/download/zqu21148_zoqqa_3/su1id0_p4r4_stre4ming_a85/2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="No manches Frida 2" tvg-logo="" group-title="VOD | Peliculas",No manches Frida 2
 http://higherpro.xyz:8080/movie/557842228429/266467448992/133250.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sin escape" tvg-logo="" group-title="VOD | Peliculas",Sin escape
-
+http://vod.tuxchannel.mx/peliculas/720/no%20escape.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Un rescate de huevitos" tvg-logo="" group-title="VOD | Peliculas",Un rescate de huevitos
 http://51.81.208.167/EXTRENO/Un.rescate.de.huevitos.2021.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hotel transylvania 2" tvg-logo="" group-title="VOD | Peliculas",Hotel transylvania 2
@@ -1059,7 +1059,7 @@ http://higherpro.xyz:8080/movie/557842228429/266467448992/152720.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Busqueda Implacable 3" tvg-logo="" group-title="VOD | Peliculas",Busqueda Implacable 3
 http://higherpro.xyz:8080/movie/557842228429/266467448992/152721.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER HERO" tvg-logo="" group-title="VOD | Peliculas",Dragon ball super hero
-
+https://archive.org/download/01_20220902_20220902_1529/01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="3 metros sobre el cielo" tvg-logo="" group-title="VOD | Peliculas",3 metros sobre el cielo
 http://51.81.208.167/movies/3_metros_sobre_el_cielo_(2010).mp4
 #EXTINF:-1 tvg-id="" tvg-name="Legalmente rubia 1" tvg-logo="" group-title="VOD | Peliculas",Legalmente rubia 1
@@ -1077,7 +1077,7 @@ http://51.81.208.167/movies/The.Croods.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 2" tvg-logo="" group-title="VOD | Peliculas",Los Croods 2
 http://higherpro.xyz:8080/movie/557842228429/266467448992/131722.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Turbo" tvg-logo="" group-title="VOD | Peliculas",Turbo
-
+http://vod.tuxchannel.mx/peliculas/720/turbo.mkv
 #EXTINF:-1 tvg-id="" tvg-name="En busca de la felicidad" tvg-logo="" group-title="VOD | Peliculas",En busca de la felicidad
 http://51.81.208.167/movies/en_busca_de_la_felicidad_(2006).mkv
 #EXTINF:-1 tvg-id="" tvg-name="Encanto" tvg-logo="" group-title="VOD | Peliculas",Encanto
@@ -1093,7 +1093,7 @@ http://higherpro.xyz:8080/movie/557842228429/266467448992/133309.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Catastrofe helada" tvg-logo="" group-title="VOD | Peliculas",Catastrofe helada
 
 #EXTINF:-1 tvg-id="" tvg-name="Rescatando al soldado Ryan" tvg-logo="" group-title="VOD | Peliculas",Rescatando al soldado Ryan
-
+http://vod.tuxchannel.mx/peliculas/720/saving%20private%20ryan.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los 10 mandamientos" tvg-logo="" group-title="VOD | Peliculas",Los 10 mandamientos
 
 #EXTINF:-1 tvg-id="" tvg-name="Jesús" tvg-logo="" group-title="VOD | Peliculas",Jesús
@@ -1124,12 +1124,6 @@ http://51.81.208.167/pelis2022/Wrong.Place.2022.lati.mp4
 http://51.81.208.167/pelis2022/The.Enforcer.2022.lati.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fiesta en la casa" tvg-logo="" group-title="VOD | Peliculas",Fiesta en la casa
 http://51.81.208.167/pelis2023/House.Party.2023.lati.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La generacion del mal" tvg-logo="" group-title="VOD | Peliculas",La generacion del mal
-
-#EXTINF:-1 tvg-id="" tvg-name="Junge" tvg-logo="" group-title="VOD | Peliculas",Junge
-http://144.217.180.205/Peliculas/Aventura/16134.JUNGE.2023.1080p.WEBRip.Dual.Latino.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Narvik" tvg-logo="" group-title="VOD | Peliculas",Narvik
-http://144.217.180.205/Peliculas/Drama/18505.Narvik.2022.1080p.WEBRip.mkv
 #EXTINF:-1 tvg-id="" tvg-name="El asesino perfecto" tvg-logo="" group-title="VOD | Peliculas",El asesino perfecto
 http://higherpro.xyz:8080/movie/557842228429/266467448992/155508.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Super nacho" tvg-logo="" group-title="VOD | Peliculas",Super nacho
