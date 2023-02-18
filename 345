@@ -177,7 +177,7 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3250
 #EXTINF:-1 tvg-id="animal.ec" tvg-name="INT| ANIMAL PLANET " tvg-logo="https://img2.freepng.es/20180706/gvp/kisspng-animal-planet-logo-television-channel-television-s-planet-express-5b4010646d8f98.7476101915309251564488.jpg" group-title="TV | Internacional",ANIMAL PLANET 
 http://45.160.12.253:8000/play/025
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| HOME & GARDEN" tvg-logo="" group-title="TV | Internacional",HOME & GARDEN
-
+http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/187048
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| LOVE NATURE" tvg-logo="" group-title="TV | Internacional",LOVE NATURE
 http://181.176.148.142:8000/play/a02q
 #EXTINF:-1 tvg-id="cinecanal.ec" tvg-name="INT| SUN CHANNEL" tvg-logo="" group-title="TV | Internacional",SUN CHANNEL
@@ -207,7 +207,7 @@ http://190.61.101.9:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO HD "  tvg-logo="" group-title="TV | Internacional",NATGEO HD
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2392
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO MUNDO "  tvg-logo="" group-title="TV | Internacional",NATGEO MUNDO
-
+http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/267311
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| NATGEO WILD "  tvg-logo="https://img1.freepng.es/20180711/bt/kisspng-nat-geo-wild-national-geographic-high-definition-t-geo-news-logo-5b45f75aeec959.4760694115313119629781.jpg" group-title="TV | Internacional",NATGEO WILD
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1816
 
@@ -224,7 +224,7 @@ http://190.2.214.180:4000/play/golden/index.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PLUS" tvg-logo="" group-title="TV | Internacional",GOLDEN PLUS
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87570
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygA2Ai5S76HLqztjULLaVcdUK-tD2dRFQBwI4QjUxyeM.png" group-title="TV | Internacional",GOLDEN PREMIER
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2198
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN PREMIER 2" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN PREMIER 2
@@ -243,7 +243,7 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3228
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 http://200.41.79.165:8000/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL REALITY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL REALITY
-
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/128014
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
 http://209.45.52.14:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
@@ -294,7 +294,7 @@ http://181.78.7.92:6500/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| MTV HITS" tvg-logo="" group-title="TV | Internacional",MTV HITS
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| CONCERT TV" tvg-logo="" group-title="TV | Internacional",CONCERT TV
-
+http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/8701
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| KUMBIA TV" tvg-logo="" group-title="TV | Internacional",KUMBIA TV
 http://181.176.148.142:8000/play/a02o
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| ZONA LATINA" tvg-logo="" group-title="TV | Internacional",ZONA LATINA
@@ -326,7 +326,7 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4130
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
 http://200.41.79.165:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
-http://187.102.210.164:8000/play/a01k/index.m3u8
+http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/9031
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TRUE TV" tvg-logo="" group-title="TV | Internacional",TRUE TV
 http://181.176.148.142:8000/play/a030
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| CLIC TV" tvg-logo="" group-title="TV | Internacional",CLIC TV
@@ -399,6 +399,10 @@ http://190.131.228.59:8000/play/a04g/index.m3u8
 http://200.41.79.165:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX ACTION" tvg-logo="" group-title="TV | Internacional",CINEMAX ACTION
 http://170.83.242.156:5350/play/a002
+#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ EDGE" tvg-logo="" group-title="TV | Internacional",STARZ EDGE
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87623
+#EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ LATINO" tvg-logo="" group-title="TV | Internacional",STARZ LATINO
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87631
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="https://img1.freepng.es/20180802/bvw/kisspng-logo-lifetime-movies-television-film-april-2016-bechdel-test-fest-5b63275fe49e02.2421730915332247999364.jpg" group-title="TV | Internacional",LIFETIME
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3073
@@ -477,7 +481,7 @@ http://181.176.148.142:8000/play/a02t
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| TEEN NICK HQ" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51yg-xUSk3L.png" group-title="TV | Infantiles",TEEN NICK HQ
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4140
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY XD HQ" tvg-logo="http://playlistplus.site:8080/images/a83dec3009a0b0ba1e484864eddbd654.jpg" group-title="TV | Infantiles",DISNEY XD HQ
-
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/128003
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://181.176.148.142:8000/play/a02b
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
@@ -490,8 +494,8 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1869
 http://177.234.230.226:8010/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JR" tvg-logo="" group-title="TV | Infantiles",DISNEY JR
 http://190.60.39.62:8000/play/a01k
-#EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| TOONCAST HQ" tvg-logo="https://p1.hiclipart.com/preview/665/946/331/tv-channel-icons-pack-tooncast-color-png-icon-thumbnail.jpg" group-title="TV | Infantiles",TOONCAST HQ
-
+#EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| WALT DISNEY" tvg-logo="" group-title="TV | Infantiles",WALT DISNEY
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/128005
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Infantiles",DISCOVERY KIDS HQ
 http://200.41.79.165:8000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="TV | Infantiles",CARTOON NETWORK HQ
@@ -502,7 +506,7 @@ http://200.41.79.165:8000/play/a049/index.m3u8
 
 
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| PLANETA CARTOON" tvg-logo="" group-title="TV | Infantiles",PLANETA CARTOON
-
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87434
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY TV" tvg-logo="" group-title="TV | Infantiles",BABY TV
 http://181.189.243.254:8000/play/a0ns/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| BABY FIRST" tvg-logo="" group-title="TV | Infantiles",BABY FIRST
@@ -564,7 +568,7 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/43639
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 " tvg-logo="" group-title="TV | Deportes",ESPN 4
 http://177.234.230.226:8010/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ARG" tvg-logo="" group-title="TV | Deportes",ESPN 4 ARG
-http://190.60.37.69:8015/play/a02n/index.m3u8
+http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/295627
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1118360
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
@@ -593,7 +597,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1214
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV ECUA" tvg-logo="" group-title="TV | Deportes",GOL TV ECUA
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3755
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| GOLTV 1" tvg-logo="" group-title="TV | Deportes",GOLTV 1
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/129712
+http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/60971
 
 #EXTINF:-1 tvg-id="tntsport.ec" tvg-name="DEP| TNT SPORT 1 HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/04/tnt-sports-696x434.jpg" group-title="TV | Deportes",TNT SPORT 1 HQ
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/129706
@@ -616,7 +620,7 @@ http://45.160.12.253:8000/play/235
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT MEX" tvg-logo="" group-title="TV | Deportes",FOX SPORT MEX
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3267
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT " tvg-logo="" group-title="TV | Deportes",FOX SPORT 
-
+http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/280370
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 1 ARG" tvg-logo="" group-title="TV | Deportes",FOX SPORT 1 ARG
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87993
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FOX SPORT 2" tvg-logo="" group-title="TV | Deportes",FOX SPORT 2
@@ -638,13 +642,13 @@ http://186.5.31.251:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/72227
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
-
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86549
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
 http://186.101.70.92:25501/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP5" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP5
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87688
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| CNT SPORT" tvg-logo="" group-title="TV | Deportes",CNT SPORT
 http://186.5.31.251:8000/play/a0d3/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
@@ -658,14 +662,14 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/53462
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/105197
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ESPAÑA" tvg-logo="" group-title="TV | Deportes",DIRECTV ESPAÑA
-
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86647
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 1" tvg-logo="" group-title="TV | Deportes",DSPORTS 1
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/53462
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DSPORTS 2" tvg-logo="" group-title="TV | Deportes",DSPORTS 2
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/53489
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV SPORT" tvg-logo="" group-title="TV | Deportes",DIRECTV SPORT
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/79659
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/131146
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 1" tvg-logo="" group-title="TV | Deportes",DIRECTV 1
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86283
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
@@ -675,9 +679,9 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/53489
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/79661
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/1382
+http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/31645
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/79660
+http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/67721
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/23239
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
@@ -712,11 +716,11 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3146
 http://186.5.31.251:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
-
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/105206
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PLUS" tvg-logo="" group-title="TV | Deportes",MOVISTAR PLUS
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
-
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/105210
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN LA LIGA" tvg-logo="" group-title="TV | Deportes",DAZN LA LIGA
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3118
 
@@ -734,7 +738,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/528
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| WIN SPORT PLUS" tvg-logo="" group-title="TV | Deportes",WIN SPORT PLUS
 http://190.131.228.59:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TUDN MEX" tvg-logo="" group-title="TV | Deportes",TUDN MEX
-
+http://iptvtree.net:8080/Millenium/bP68oeP7FOTLZg0E/31784
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| AFIZZIONADOS" tvg-logo="" group-title="TV | Deportes",AFIZZIONADOS TV
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
@@ -747,7 +751,7 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/41816
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| EUROSPORT 2" tvg-logo="" group-title="TV | Deportes",EUROSPORT 2
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/51352
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ F1" tvg-logo="" group-title="TV | Deportes",DZ F1
-
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/105205
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| DZ FORMULA 1" tvg-logo="" group-title="TV | Deportes",DZ FORMULA 1
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1810
 #EXTINF:-1 tvg-id="f1.ec" tvg-name="DEP| FORMULA 1" tvg-logo="" group-title="TV | Deportes",FORMULA 1
@@ -938,7 +942,7 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/44728
 #EXTINF:-1 tvg-id="" tvg-name="Mentes criminales" tvg-logo="" group-title="24/7 | 24/7",Mentes criminales
 
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="24/7 | 24/7",AMAZON PRIME 2
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/126327
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/126316
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 1" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 1
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/126336
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 2
