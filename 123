@@ -925,7 +925,7 @@ https://tinyurl.com/y976r32k
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bob esponja
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130575
-#EXTINF:-1 tvg-id="" tvg-name="Manual de supervivencia" tvg-logo="" group-title="24/7 | 24/7",Manual de ssupervivencia
+#EXTINF:-1 tvg-id="" tvg-name="Manual de supervivencia" tvg-logo="" group-title="24/7 | 24/7",Manual de supervivencia
 
 #EXTINF:-1 tvg-id="" tvg-name="Los picapiedras" tvg-logo="" group-title="24/7 | 24/7",Los picapiedras
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130790
@@ -938,15 +938,15 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090903
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130745
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",South park
-
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302635
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Supercampeones
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130715
 #EXTINF:-1 tvg-id="" tvg-name="Alerta aereopuerto" tvg-logo="" group-title="24/7 | 24/7",Alerta aereopuerto
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/203977
 #EXTINF:-1 tvg-id="" tvg-name="La casa de papel" tvg-logo="" group-title="24/7 | 24/7",La casa de papel
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091009
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302624
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",El juego del calamar
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091008
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302623
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Caballeros del zodiaco
 
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7",FAMILIA PELUCHE
@@ -971,6 +971,11 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/210827
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210822
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA APPLE 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA APPLE 2
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210812
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA 2
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302649
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA 3" tvg-logo="" group-title="24/7 | 24/7",CINEMA 3
+http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302655
+
 
 
 
