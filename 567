@@ -14,9 +14,10 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/142291
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
 
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS " tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS
-http://181.175.41.170:200/play/a05x
+https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
 #EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="https://pbs.twimg.com/profile_images/1534651751046991872/oB3Yq8EL_400x400.jpg" group-title="TV | Ecuador",RTS HD
 https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11039
@@ -455,6 +456,13 @@ http://200.60.7.43:8000/play/5/index.m3u8
 http://200.60.7.43:8000/play/6/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| PANICO TV" tvg-logo="" group-title="TV | Internacional",PANICO TV
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155171
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| ORBIT TV" tvg-logo="" group-title="TV | Internacional",ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| SEO TV" tvg-logo="" group-title="TV | Internacional",SEO TV
+https://live.seo.tv.bo/live/4SEO.m3u8
+#EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| TV PRIME" tvg-logo="" group-title="TV | Internacional",TV PRIME
+https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-id="claro.ec" tvg-name="INT| CLARO TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_tv-mediano.png" group-title="TV | Internacional",CLARO TV
@@ -536,6 +544,8 @@ http://45.162.132.145:8850/play/a03q/index.m3u8
 http://45.160.12.253:8000/play/002
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PLANETA JUNIOR TV" tvg-logo="" group-title="TV | Infantiles",PLANETA JUNIOR TV
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PLANETA FAMILY TV" tvg-logo="" group-title="TV | Infantiles",PLANETA FAMILY TV
+https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DIOS TV KIDS" tvg-logo="" group-title="TV | Internacional",DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| CHIQUILINES TV" tvg-logo="" group-title="TV | Internacional",CHIQUILINES TV
@@ -548,6 +558,8 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130789
 http://201.218.137.227:4000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DREAMWORK" tvg-logo="" group-title="TV | Infantiles",DREAMWORK
 http://201.218.137.227:4000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| PREMIER KIDS" tvg-logo="" group-title="TV | Infantiles",PREMIER KIDS
+https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1770574078.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
@@ -1140,7 +1152,9 @@ http://vod.tuxchannel.mx/peliculas/720/saving%20private%20ryan.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los 10 mandamientos" tvg-logo="" group-title="VOD | Peliculas",Los 10 mandamientos
 
 #EXTINF:-1 tvg-id="" tvg-name="Jesús" tvg-logo="" group-title="VOD | Peliculas",Jesús
-
+https://vod.lamtv.tv/ene/20220414019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="David:los sueños del faraon" tvg-logo="" group-title="VOD | Peliculas",David: los sueños del faraon
+https://vod.lamtv.tv/ene/20220414027.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pantera negra" tvg-logo="" group-title="VOD | Peliculas",Pantera negra
 http://144.217.180.205/Peliculas/Accion/Ver%20Black%20Panther%20Wakanda%20Forever%20(2022)%20Online%20Latino%20HD%20-%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Avatar, el sentido del agua" tvg-logo="" group-title="VOD | Peliculas",Avatar, el sentido del agua
@@ -1148,9 +1162,9 @@ http://144.217.180.205/Peliculas/Accion/Ver%20Avatar%20El%20sentido%20del%20agua
 #EXTINF:-1 tvg-id="" tvg-name="Jose y los sueños del faraon" tvg-logo="" group-title="VOD | Peliculas",Jose y los sueños del faraon
 
 #EXTINF:-1 tvg-id="" tvg-name="Jacob" tvg-logo="" group-title="VOD | Peliculas",Jacob
-
+https://vod.lamtv.tv/ene/20220412021.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Jeremias" tvg-logo="" group-title="VOD | Peliculas",Jeremias
-
+https://vod.lamtv.tv/ene/20220414018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 1" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 1
 
 #EXTINF:-1 tvg-id="" tvg-name="Mas barato por docena 2" tvg-logo="" group-title="VOD | Peliculas",Mas barato por docena 2
