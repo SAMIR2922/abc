@@ -22,12 +22,12 @@ https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC "  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11039
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| TC HD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="TV | Ecuador",TC HD
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/142286
+
 
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR TV "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR TV
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11035
 #EXTINF:-1 tvg-id="oromartv.ec" tvg-name="EC| OROMAR "  tvg-logo="https://i.pinimg.com/originals/5b/b7/94/5bb7948502f9a1d774cf5ef8b47b7042.jpg" group-title="TV | Ecuador",OROMAR
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/142284
+
 
 #EXTINF:-1 tvg-id="gama.ec" tvg-name="EC| GAMAVISION "  tvg-logo="" group-title="TV | Ecuador",GAMAVISION 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/147955
@@ -37,7 +37,7 @@ http://160.20.165.246:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS " tvg-logo="https://wikidat.com/img/teleamazonas-8d079801d33a0cbd211667d8748b62fc.jpg" group-title="TV | Ecuador",TELEAMAZONAS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11043
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HQ " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HQ
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86531
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/142287
 #EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| TELEAMAZONAS HD " tvg-logo="" group-title="TV | Ecuador",TELEAMAZONAS HD
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/516
 
@@ -76,7 +76,7 @@ https://stmv1.voxhdnet.com/diego7128/diego7128/chunklist_w463425149.m3u8
 
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| WUAN TV "  tvg-logo="" group-title="TV | Ecuador",WUAN TV
-https://streamingwowza.com:19360/wuanplus/wuanplus.m3u8
+
 
 #EXTINF:-1 tvg-id="tc.ec" tvg-name="EC| EL SOL TV "  tvg-logo="" group-title="TV | Ecuador",SOL TV
 
@@ -125,7 +125,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/202065
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1767
 
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E "  tvg-logo="" group-title="TV | Internacional",E 
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/88237
+
 #EXTINF:-1 tvg-id="a&e.ec" tvg-name="INT| E! "  tvg-logo="https://logodix.com/logo/560373.jpg" group-title="TV | Internacional",E! 
 http://181.78.7.92:6500/play/a01e/index.m3u8
 
@@ -138,7 +138,7 @@ http://170.83.242.30:5350/play/a001
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP "  tvg-logo="https://i.ytimg.com/vi/UXUngVfp4zQ/maxresdefault.jpg" group-title="TV | Internacional",HBO POP 
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2236
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1024px-HBO_Pop.svg.png" group-title="TV | Internacional",HBO POP HD
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/90194
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 "  tvg-logo="" group-title="TV | Internacional",HBO 2
 http://tvstarlife.com:25461/cesar/cesar123/127
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO 2 HD"  tvg-logo="" group-title="TV | Internacional",HBO 2 HD
@@ -146,7 +146,7 @@ http://181.78.27.187:5350/play/a02o
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY "  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY
 http://170.83.242.156:5350/play/a02r
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO FAMILY HD"  tvg-logo="https://cdn.imgbin.com/3/19/12/imgbin-logo-hbo-brasil-hbo-family-hbo-2-design-N7LqbB0zW0u7z8CY6L6NhYyBm.jpg" group-title="TV | Internacional",HBO FAMILY HD
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/90191
+
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS "  tvg-logo="" group-title="TV | Internacional",HBO PLUS
 http://170.83.242.156:5350/play/a02p
 #EXTINF:-1 tvg-id="hbo.ec" tvg-name="INT| HBO PLUS HD"  tvg-logo="" group-title="TV | Internacional",HBO PLUS HD
@@ -163,7 +163,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/10882
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT "  tvg-logo="" group-title="TV | Internacional",TNT 
 http://190.131.228.59:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HQ "  tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/03/TNT.png" group-title="TV | Internacional",TNT HQ
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86866
+
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT HD "  tvg-logo="http://tv.streamid.ga:8080/images/d2c90834c6ea0262e774fdc40809b9cb.png" group-title="TV | Internacional",TNT HD
 http://181.78.7.92:6500/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="tnt.ec" tvg-name="INT| TNT ESPAÑA"  tvg-logo="" group-title="TV | Internacional",TNT ESPAÑA
@@ -224,7 +224,7 @@ http://190.61.102.67:8000/play/a02b
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN LAT " tvg-logo="" group-title="TV | Internacional",GOLDEN LAT
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124115
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE HQ" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE HQ
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86993
+
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN EDGE" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg" group-title="TV | Internacional",GOLDEN EDGE
 http://tvstarlife.com:25461/cesar/cesar123/109
 #EXTINF:-1 tvg-id="golden.ec" tvg-name="INT| GOLDEN + HQ" tvg-logo="" group-title="TV | Internacional",GOLDEN + HQ
@@ -251,9 +251,9 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/2075
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL TV HQ" tvg-logo="https://img2.freepng.es/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg" group-title="TV | Internacional",UNIVERSAL TV HQ
 http://200.41.79.165:8000/play/a0ht/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL REALITY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL REALITY
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/128014
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CINEMA "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CINEMA
-http://tvstarlife.com:25461/cesar/cesar123/30030
+
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL CRIME "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL CRIME
 http://181.189.243.254:8000/play/a0t0/index.m3u8
 #EXTINF:-1 tvg-id="universal.ec" tvg-name="INT| UNIVERSAL COMEDY "  tvg-logo="" group-title="TV | Internacional",UNIVERSAL COMEDY
@@ -268,7 +268,7 @@ http://177.234.230.226:8010/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY " tvg-logo="" group-title="TV | Internacional",SONY 
 http://181.78.7.92:6500/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="sony.ec" tvg-name="INT| SONY MOVIES" tvg-logo="" group-title="TV | Internacional",SONY MOVIES
-http://50.7.66.234:8080/moontools/6548@89787/1143816
+
 
 #EXTINF:-1 tvg-id="studio.ec" tvg-name="INT| STUDIO UNIVERSAL HQ" tvg-logo="https://img1.freepng.es/20180406/wdw/kisspng-universal-pictures-studio-universal-television-cha-studio-5ac73ebabe2eb2.543294791523007162779.jpg" group-title="TV | Internacional",STUDIO UNIVERSAL HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10873
@@ -286,11 +286,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| RUSIA TODAY" tvg-logo="" group-title="TV | Internacional",RUSIA TODAY
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| TELESUR" tvg-logo="" group-title="TV | Internacional",TELESUR
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/142277
+
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| FRANCE 24" tvg-logo="" group-title="TV | Internacional",FRANCE 24
 http://190.186.159.19:58001/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| UNIVISION" tvg-logo="" group-title="TV | Internacional",UNIVISION
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/163336
+
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| CARACOL" tvg-logo="" group-title="TV | Internacional",CARACOL
 http://181.78.12.119:16123/play/ch58/index.m3u8
 
@@ -314,7 +314,7 @@ http://181.176.148.142:8000/play/a01u
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| VALLENATO TV" tvg-logo="" group-title="TV | Internacional",VALLENATO TV
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| NICK MUSIC" tvg-logo="" group-title="TV | Internacional",NICK MUSIC
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/163351
+
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| SALSA TV" tvg-logo="" group-title="TV | Internacional",SALSA TV
 
 #EXTINF:-1 tvg-id="mtv.ec" tvg-name="INT| REGGAETON TV" tvg-logo="" group-title="TV | Internacional",REGGAETON TV
@@ -336,7 +336,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/154093
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TELEMUNDO" tvg-logo="" group-title="TV | Internacional",TELEMUNDO
 http://200.41.79.165:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| HOLA TV" tvg-logo="" group-title="TV | Internacional",HOLA TV
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124113
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| TRUE TV" tvg-logo="" group-title="TV | Internacional",TRUE TV
 http://181.176.148.142:8000/play/a030
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| CLIC TV" tvg-logo="" group-title="TV | Internacional",CLIC TV
@@ -344,7 +344,7 @@ http://50.7.66.234:8080/moontools/6548@89787/3245
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FASHION TV" tvg-logo="" group-title="TV | Internacional",FASHION TV
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| EL GOURMET" tvg-logo="" group-title="TV | Internacional",EL GOURMET
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124059
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| COCINA TV" tvg-logo="" group-title="TV | Internacional",COCINA TV
 
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| MUNDO Y SABOR" tvg-logo="" group-title="TV | Internacional",MUNDO Y SABOR
@@ -369,9 +369,9 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/2083
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AMC ESPAÑA" tvg-logo="" group-title="TV | Internacional",AMC ESPAÑA
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1788
 #EXTINF:-1 tvg-id="axn.ec" tvg-name="INT| AXN HQ" tvg-logo="https://tvnotiblog.com/deseries/wp-content/uploads/2015/09/logo-axn-750x420.jpg" group-title="TV | Internacional",AXN HQ
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86849
+
 #EXTINF:-1 tvg-id="amc.ec" tvg-name="INT| AXN ESPAÑA" tvg-logo="" group-title="TV | Internacional",AXN ESPAÑA
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87433
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| AXN WHITE" tvg-logo="" group-title="TV | Internacional",AXN WHITE
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1781
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FOX ESPAÑA" tvg-logo="" group-title="TV | Internacional",FOX ESPAÑA
@@ -381,7 +381,7 @@ http://170.83.242.156:5350/play/a006
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| FX2" tvg-logo="" group-title="TV | Internacional",FX2
 http://tvstarlife.com:25461/cesar/cesar123/66
 #EXTINF:-1 tvg-id="fxm.ec" tvg-name="INT| FXM HQ" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" group-title="TV | Internacional",FXM HQ
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124064
+
 #EXTINF:-1 tvg-id="fx.ec" tvg-name="INT| Film & Arts" tvg-logo="https://cdn.mitvstatic.com/channels/d2aff6e5-5f95-4a9d-9b35-bce8c258cff0_m.jpg" group-title="TV | Internacional",Film & Arts
 http://190.83.116.230:9010/play/a01u/index.m3u8
 
@@ -404,7 +404,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1784
 #EXTINF:-1 tvg-id="tlc.ec" tvg-name="INT| DHE HD" tvg-logo="" group-title="TV | Internacional",DHE HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/154097
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="TV | Internacional",CINEMAX HQ
-http://tvstarlife.com:25461/cesar/cesar123/96
+
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 2" tvg-logo="https://img1.freepng.es/20180617/tq/kisspng-cinemax-hbo-starz-encore-showtime-pay-television-new-frontiers-program-5b2627668867d1.1676879315292271105587.jpg" group-title="TV | Internacional",CINEMAX 2
 http://190.131.228.59:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| CINEMAX 3" tvg-logo="" group-title="TV | Internacional",CINEMAX 3
@@ -414,7 +414,7 @@ http://170.83.242.156:5350/play/a002
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ EDGE" tvg-logo="" group-title="TV | Internacional",STARZ EDGE
 
 #EXTINF:-1 tvg-id="cinemax.ec" tvg-name="INT| STARZ LATINO" tvg-logo="" group-title="TV | Internacional",STARZ LATINO
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87631
+
 
 #EXTINF:-1 tvg-id="lifetime.ec" tvg-name="INT| LIFETIME" tvg-logo="https://img1.freepng.es/20180802/bvw/kisspng-logo-lifetime-movies-television-film-april-2016-bechdel-test-fest-5b63275fe49e02.2421730915332247999364.jpg" group-title="TV | Internacional",LIFETIME
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/188850
@@ -445,11 +445,11 @@ http://181.176.148.142:8000/play/a02y
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| BITME" tvg-logo="" group-title="TV | Internacional",BITME
 http://tvstarlife.com:25461/cesar/cesar123/27751
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DE PELICULA" tvg-logo="" group-title="TV | Internacional",DE PELICULA
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124486
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87439
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| DE PELICULA PLUS" tvg-logo="" group-title="TV | Internacional",DE PELICULA PLUS
 http://tvstarlife.com:25461/cesar/cesar123/77
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| I SAT" tvg-logo="" group-title="TV | Internacional",I SAT
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87117
+
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH MOVIES" tvg-logo="" group-title="TV | Internacional",FMH MOVIES
 http://200.60.7.43:8000/play/5/index.m3u8
 #EXTINF:-1 tvg-id="tbs.ec" tvg-name="INT| FMH FAMILY" tvg-logo="" group-title="TV | Internacional",FMH FAMILY
@@ -506,9 +506,9 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2100720
 #EXTINF:-1 tvg-id="disney.ec" tvg-name="INT| DISNEY CHANNEL HQ" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/disney-channel-navidad-696x392.jpg" group-title="TV | Infantiles",DISNEY CHANNEL HQ
 http://181.176.148.142:8000/play/a02b
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY CHANNEL " tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/DISNEY-CHANNEL.jpg" group-title="TV | Infantiles",DISNEY CHANNEL
-http://tvstarlife.com:25461/cesar/cesar123/192
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY" tvg-logo="" group-title="TV | Infantiles",DISNEY 
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/163314
+
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY PELICULAS" tvg-logo="" group-title="TV | Infantiles",DISNEY PELICULAS
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1869
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JUNIOR" tvg-logo="" group-title="TV | Infantiles",DISNEY JUNIOR
@@ -516,7 +516,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/28151
 #EXTINF:-1 tvg-id="nick.ec" tvg-name="INT| DISNEY JR" tvg-logo="" group-title="TV | Infantiles",DISNEY JR
 http://tvstarlife.com:25461/cesar/cesar123/194
 #EXTINF:-1 tvg-id="toon.ec" tvg-name="INT| WALT DISNEY" tvg-logo="" group-title="TV | Infantiles",WALT DISNEY
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130784
+
 #EXTINF:-1 tvg-id="discovery.ec" tvg-name="INT| DISCOVERY KIDS HQ" tvg-logo="https://www.adlatina.com/uploads/img/fotoNoticiaG31575.jpg" group-title="TV | Infantiles",DISCOVERY KIDS HQ
 http://200.41.79.165:8000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="cartoon.ec" tvg-name="INT| CARTOON NETWORK HQ" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="TV | Infantiles",CARTOON NETWORK HQ
@@ -553,7 +553,7 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FMH KIDS" tvg-logo="" group-title="TV | Infantiles",FMH KIDS
 http://200.60.7.43:8000/play/7/index.m3u8
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN BOX" tvg-logo="" group-title="TV | Infantiles",FUN BOX
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130789
+
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| FUN POP" tvg-logo="" group-title="TV | Infantiles",FUN POP
 
 #EXTINF:-1 tvg-id="baby.ec" tvg-name="INT| DREAMWORK" tvg-logo="" group-title="TV | Infantiles",DREAMWORK
@@ -565,11 +565,11 @@ http://azxtv.com/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS
-http://tvstarlife.com:25461/cesar/cesar123/423
+
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS HD" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS HD
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1191
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS XTRA" tvg-logo="http://castlempire.site:8080/images/47bdf2019aebabfb52e9116c6a5808d0.jpg" group-title="TV | Deportes",BEIN SPORTS XTRA
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
 
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN CHILE" tvg-logo="" group-title="TV | Deportes",ESPN CHILE
 http://tvstarlife.com:25461/cesar/cesar123/1323
@@ -602,7 +602,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121660
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN 4 ECU" tvg-logo="" group-title="TV | Deportes",ESPN 4 ECU
 http://190.186.159.19:58002/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA 
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/156605
+
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN EXTRA ARG" tvg-logo="" group-title="TV | Deportes",ESPN EXTRA ARG
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1091
 #EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="TV | Deportes",ESPN PREMIUM
@@ -678,7 +678,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/10395
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL 1" tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL 1
 http://186.5.31.251:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86549
+
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/176965
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
@@ -711,9 +711,9 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86283
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1205
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
-http://tvstarlife.com:25461/cesar/cesar123/1302
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/156594
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
@@ -723,12 +723,12 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/11026
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1195
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/156592
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV FIGHT" tvg-logo="" group-title="TV | Deportes",DIRECTV FIGHT
 
 
 #EXTINF:-1 tvg-id="ufc.ec" tvg-name="DEP| UFC " tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="TV | Deportes",UFC 
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86434
+
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| FIGHT TV" tvg-logo="" group-title="TV | Deportes",FIGHT TV
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
@@ -749,16 +749,16 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/10930
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MANCHESTER CITY" tvg-logo="" group-title="TV | Deportes",MANCHESTER CITY TV
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES " tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/105204
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR DEPORTES 1" tvg-logo="https://i.pinimg.com/236x/7b/ff/1e/7bff1ed2b274de9dcfc282f1177908f5.jpg" group-title="TV | Deportes",MOVISTAR DEPORTES 1
 http://186.5.31.251:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LA LIGA " tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/x/1/movistar-la-liga.jpg" group-title="TV | Deportes",MOVISTAR LA LIGA 
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/105206
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR PLUS" tvg-logo="" group-title="TV | Deportes",MOVISTAR PLUS
 
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="TV | Deportes",MOVISTAR LIGA DE CAMPEONES
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/105210
+
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| DAZN LA LIGA" tvg-logo="" group-title="TV | Deportes",DAZN LA LIGA
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144853
 
@@ -799,7 +799,7 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/105205
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1
 http://tvstarlife.com:25461/cesar/cesar123/1227
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| SKY SPORT F1 HD" tvg-logo="" group-title="TV | Deportes",SKY SPORT F1 HD
-http://50.7.66.234:8080/moontools/6548@89787/3094
+
 #EXTINF:-1 tvg-id="tenis.ec" tvg-name="DEP| LATIN AMERICAN SPORT" tvg-logo="" group-title="TV | Deportes",LATIN AMERICAN SPORT
 http://181.189.243.254:8000/play/a0rd/index.m3u8
 
@@ -818,28 +818,28 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E01
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_01.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E02
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_02.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E03
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_03.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E04
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_04.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E05
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_05.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E06
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_06.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E07
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_07.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E08
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_08.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E09
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_09.mkv
+
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E01
-http://vods.tuxchannel.tv/series/lord_of_the_rings_the_rings_of_power/s_01_e_01.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E02
-http://vods.tuxchannel.tv/series/lord_of_the_rings_the_rings_of_power/s_01_e_02.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E03
 https://archive.org/download/03_20220909_20220909_1426/03.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E04
@@ -855,15 +855,15 @@ https://archive.org/download/08_20221014/08.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="E01" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E01
-http://vods.tuxchannel.tv/series/house_of_the_dragon/s_01_e_01.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E02" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E02
-http://vods.tuxchannel.tv/series/house_of_the_dragon/s_01_e_02.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E03" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E03
-http://vods.tuxchannel.tv/series/house_of_the_dragon/s_01_e_03.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E04" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E04
-http://vods.tuxchannel.tv/series/house_of_the_dragon/s_01_e_04.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E05" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E05
-http://vods.tuxchannel.tv/series/house_of_the_dragon/s_01_e_05.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E06" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E06
 https://archive.org/download/06_20220926/06.mp4
 #EXTINF:-1 tvg-id="" tvg-name="E07" tvg-logo="" group-title="SERIES | DRAMA",La casa del dragon E07
@@ -922,21 +922,21 @@ https://archive.org/download/09_20221014/09.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES | DRAMA",Merlina E01
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_01.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E2" tvg-logo="" group-title="SERIES | DRAMA",Merlina E02
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_02.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E3" tvg-logo="" group-title="SERIES | DRAMA",Merlina E03
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_03.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="" group-title="SERIES | DRAMA",Merlina E04
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_04.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E5" tvg-logo="" group-title="SERIES | DRAMA",Merlina E05
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_05.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E6" tvg-logo="" group-title="SERIES | DRAMA",Merlina E06
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_06.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="SERIES | DRAMA",Merlina E07
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_07.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="E8" tvg-logo="" group-title="SERIES | DRAMA",Merlina E08
-http://vods.tuxchannel.tv/series/wednesday/s_01_e_08.mkv
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Rakuten Tv Familia
@@ -946,7 +946,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091028
 #EXTINF:-1 tvg-id="" tvg-name="El chapulin colorado" tvg-logo="" group-title="24/7 | 24/7",El chapulin colorado
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090980
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7 | 24/7",Futurama
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130648
+
 #EXTINF:-1 tvg-id="" tvg-name="Icarly" tvg-logo="" group-title="24/7 | 24/7",Icarly
 https://tinyurl.com/y976r32k
 #EXTINF:-1 tvg-id="" tvg-name="Los pinguinos de madagascar" tvg-logo="" group-title="24/7 | 24/7",Los pinguinos de madagascar
@@ -954,11 +954,11 @@ https://tinyurl.com/y976r32k
 #EXTINF:-1 tvg-id="" tvg-name="Yo soy betty la fea" tvg-logo="" group-title="24/7 | 24/7",Yo soy betty la fea
 
 #EXTINF:-1 tvg-id="" tvg-name="Bob esponja" tvg-logo="" group-title="24/7 | 24/7",Bob esponja
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130575
+
 #EXTINF:-1 tvg-id="" tvg-name="Manual de supervivencia" tvg-logo="" group-title="24/7 | 24/7",Manual de supervivencia
 
 #EXTINF:-1 tvg-id="" tvg-name="Los picapiedras" tvg-logo="" group-title="24/7 | 24/7",Los picapiedras
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130790
+
 #EXTINF:-1 tvg-id="" tvg-name="COMO DICE EL DICHO" tvg-logo="" group-title="24/7 | 24/7",COMO DICE EL DICHO
 https://linear-341.frequency.stream/dist/localnow/341/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Los simpsons" tvg-logo="" group-title="24/7 | 24/7",Los simpsons
@@ -966,17 +966,17 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091014
 #EXTINF:-1 tvg-id="" tvg-name="Gravity fall" tvg-logo="" group-title="24/7 | 24/7",Gravity fall
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090903
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL" tvg-logo="" group-title="24/7 | 24/7",DRAGON BALL
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130745
+
 #EXTINF:-1 tvg-id="" tvg-name="South park" tvg-logo="" group-title="24/7 | 24/7",South park
 http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302635
 #EXTINF:-1 tvg-id="" tvg-name="Supercampeones" tvg-logo="" group-title="24/7 | 24/7",Supercampeones
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130715
+
 #EXTINF:-1 tvg-id="" tvg-name="Alerta aereopuerto" tvg-logo="" group-title="24/7 | 24/7",Alerta aereopuerto
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/203977
 #EXTINF:-1 tvg-id="" tvg-name="La casa de papel" tvg-logo="" group-title="24/7 | 24/7",La casa de papel
 http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302624
 #EXTINF:-1 tvg-id="" tvg-name="El juego del calamar" tvg-logo="" group-title="24/7 | 24/7",El juego del calamar
-http://laondatv.online:8080/LUIS0511/MARTINEZ2022/302623
+http://tvstarlife.com:25461/cesar/cesar123/10661
 #EXTINF:-1 tvg-id="" tvg-name="Caballeros del zodiaco" tvg-logo="" group-title="24/7 | 24/7",Caballeros del zodiaco
 
 #EXTINF:-1 tvg-id="" tvg-name="FAMILIA PELUCHE" tvg-logo="" group-title="24/7 | 24/7",FAMILIA PELUCHE
@@ -990,7 +990,7 @@ https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMAZON PRIME 2" tvg-logo="" group-title="24/7 | 24/7",AMAZON PRIME 2
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 1" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 1
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/126336
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 2" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 2
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090923
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA HBO 4" tvg-logo="" group-title="24/7 | 24/7",CINEMA HBO 4
@@ -1014,9 +1014,9 @@ http://tvstarlife.com:25461/cesar/cesar123/107381
 #EXTINF:-1 tvg-id="" tvg-name="TERMINATOR" tvg-logo="" group-title="24/7 | 24/7",TERMINATOR
 http://tvstarlife.com:25461/cesar/cesar123/107376
 #EXTINF:-1 tvg-id="" tvg-name="ROCKY BALBOA" tvg-logo="" group-title="24/7 | 24/7",ROCKY BALBOA
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/130797
-#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos" tvg-logo="" group-title="24/7 | 24/7",El eñor de los anillos
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/114286
+
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos" tvg-logo="" group-title="24/7 | 24/7",El señor de los anillos
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="" group-title="VOD | Peliculas",Mulan
