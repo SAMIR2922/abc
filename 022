@@ -691,7 +691,7 @@ http://186.5.31.251:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP2 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP2 
 http://laondatv.online:8080/LUIS0511/MARTINEZ2022/408531
 #EXTINF:-1 tvg-id="ecnf.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP3 " tvg-logo="http://castlempire.site:8080/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP3 
-
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/176964
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP4" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP4
 http://186.101.70.92:25501/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| EL CANAL DEL FUTBOL OP5" tvg-logo="" group-title="TV | Deportes",EL CANAL DEL FUTBOL OP5
@@ -701,11 +701,11 @@ http://186.101.70.92:25501/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV ARGENTINA
 http://laondatv.online:8080/LUIS0511/MARTINEZ2022/279367
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 1 ARGENTINA" tvg-logo="" group-title="TV | Deportes",DIRECTV 1 ARGENTINA
-
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/11024
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUADOR" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUADOR
 http://laondatv.online:8080/LUIS0511/MARTINEZ2022/408530
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ECUA" tvg-logo="" group-title="TV | Deportes",DIRECTV ECUA
-
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/11047
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV COLOMBIA" tvg-logo="" group-title="TV | Deportes",DIRECTV COLOMBIA
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/105197
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV ESPAÑA" tvg-logo="" group-title="TV | Deportes",DIRECTV ESPAÑA
@@ -722,7 +722,7 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86283
 #EXTINF:-1 tvg-id="directv.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="http://tv.streamid.ga:8080/images/575b84c6f14b6c3fc1ad157ed9acc7e2.png" group-title="TV | Deportes",DIRECTV 2
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1205
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 HD" tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="TV | Deportes",DIRECTV 2 HD
-
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/11025
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV 2 " tvg-logo="" group-title="TV | Deportes",DIRECTV 2 
 
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS 2 " tvg-logo="" group-title="TV | Deportes",DSPORTS 2
@@ -730,7 +730,7 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1205
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV +" tvg-logo="" group-title="TV | Deportes",DIRECTV +
 http://laondatv.online:8080/LUIS0511/MARTINEZ2022/408532
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV + HD" tvg-logo="" group-title="TV | Deportes",DIRECTV + HD
-
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/11026
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DIRECTV PLUS" tvg-logo="" group-title="TV | Deportes",DIRECTV PLUS
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1195
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| DSPORTS PLUS " tvg-logo="" group-title="TV | Deportes",DSPORTS PLUS
@@ -829,28 +829,28 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E01
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361610.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E02
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361611.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E03
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361612.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E04
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361613.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E05" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E05
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361614.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E06" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E06
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361615.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E07" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E07
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361616.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E08" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E08
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361617.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E09" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg" group-title="SERIES | DRAMA",El juego del calamar S01 E09
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/361618.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="S01 E01" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E01
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/448086.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E02" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E02
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/448087.mkv
 #EXTINF:-1 tvg-id="" tvg-name="S01 E03" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E03
 https://archive.org/download/03_20220909_20220909_1426/03.mp4
 #EXTINF:-1 tvg-id="" tvg-name="S01 E04" tvg-logo="" group-title="SERIES | DRAMA",Los anillos de poder S01 E04
@@ -933,21 +933,21 @@ https://archive.org/download/09_20221014/09.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="E1" tvg-logo="" group-title="SERIES | DRAMA",Merlina E01
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505445.mkv
 #EXTINF:-1 tvg-id="" tvg-name="E2" tvg-logo="" group-title="SERIES | DRAMA",Merlina E02
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505446.mkv
 #EXTINF:-1 tvg-id="" tvg-name="E3" tvg-logo="" group-title="SERIES | DRAMA",Merlina E03
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505447.mkv
 #EXTINF:-1 tvg-id="" tvg-name="E4" tvg-logo="" group-title="SERIES | DRAMA",Merlina E04
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505448.mkv
 #EXTINF:-1 tvg-id="" tvg-name="E5" tvg-logo="" group-title="SERIES | DRAMA",Merlina E05
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505449.mkv
 #EXTINF:-1 tvg-id="" tvg-name="E6" tvg-logo="" group-title="SERIES | DRAMA",Merlina E06
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505450.mkv
 #EXTINF:-1 tvg-id="" tvg-name="E7" tvg-logo="" group-title="SERIES | DRAMA",Merlina E07
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505451.mkv
 #EXTINF:-1 tvg-id="" tvg-name="E8" tvg-logo="" group-title="SERIES | DRAMA",Merlina E08
-
+http://laondatv.online:8080/series/LUIS0511/MARTINEZ2022/505452.mkv
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten Tv Familia" tvg-logo="" group-title="24/7 | 24/7",Rakuten Tv Familia
